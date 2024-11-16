@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning: ADS(analise e desenvolvimento de sistemas)
 - 📫 How to reach: Email
 - ⚡ Fun fact: Metal gear é o melhor jogo já feito no mundo
+- (*u*) My name: Pedro M. Yokoo
 
 <!---
 Pedro-sugoy/Pedro-sugoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
