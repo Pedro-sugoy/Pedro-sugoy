@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Pedro-sugoy
-- 👀 I’m interested in: Metal Gear solid
-- 🌱 I’m currently learning: ADS
-- 💞️ I’m looking to collaborate on: Militaires Sans Frontieres(MSF)
-- 📫 How to reach: Batsinal
-- 😄 Pronouns: bat/man
+- 👀 I’m interested in: Melhorar as minhas qualidades
+- 🌱 I’m currently learning: ADS(analise e desenvolvimento de sistemas)
+- 📫 How to reach: Email
 - ⚡ Fun fact: Metal gear é o melhor jogo já feito no mundo
 
 <!---
